@@ -145,7 +145,7 @@ p {
 #showcase {
     text-align: center;
     height: 927px;
-    background: -webkit-linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/main-background.jpg) no-repeat center center/cover;
+    background: -webkit-linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(main-background.jpg) no-repeat center center/cover;
     color: #fff;
 }
 
@@ -186,7 +186,7 @@ p {
 #who .who-img {
     height: 640px;
     width: 2000px;
-    background: url(/article.svg) no-repeat center;
+    background: url(article.svg) no-repeat center;
 }
 
 /* Section: Clients */
